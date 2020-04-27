@@ -1,0 +1,29 @@
+body{
+
+background-color: darkgray;
+
+
+}
+table 
+  {  
+  border-spacing: 0; 
+  border-collapse: collapse; 
+} 
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+    border-color: green;
+}
+h1{
+    color: blue;
+}
+h2{
+    color: blue;
+}
+#td{
+    background-color: bisque;
+}
+
